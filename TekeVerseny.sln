@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekeVerseny", "TekeVerseny\TekeVerseny.csproj", "{0DBDF954-EEA3-44D3-905B-0EADED7CE303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekeVersenyGUI", "TekeVersenyGUI\TekeVersenyGUI.csproj", "{E99DD69E-44A7-4714-ADED-4B111D356924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBDF954-EEA3-44D3-905B-0EADED7CE303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBDF954-EEA3-44D3-905B-0EADED7CE303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBDF954-EEA3-44D3-905B-0EADED7CE303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBDF954-EEA3-44D3-905B-0EADED7CE303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99DD69E-44A7-4714-ADED-4B111D356924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99DD69E-44A7-4714-ADED-4B111D356924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99DD69E-44A7-4714-ADED-4B111D356924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99DD69E-44A7-4714-ADED-4B111D356924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A91626-7DA0-4E78-9B50-F4323572CD9C}
+	EndGlobalSection
+EndGlobal
