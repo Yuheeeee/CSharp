@@ -1,1 +1,4 @@
-# Tekeverseny.sln megnyitása
+# TekeVerseny Solution megnyitása
+TekeVersenyGUI indítása
+GUI:
+Fájl->megnyitás
