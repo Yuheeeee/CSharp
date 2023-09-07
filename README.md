@@ -1,1 +1,1 @@
-# teke
+# Tekeverseny.sln megnyitása
