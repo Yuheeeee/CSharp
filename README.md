@@ -1,4 +1,4 @@
 # TekeVerseny Solution megnyitása
-TekeVersenyGUI indítása
-GUI:
-Fájl->megnyitás
+TekeVersenyGUI indítása  
+GUI:  
+Fájl->megnyitás->...//Teke/Tekeverseny/
