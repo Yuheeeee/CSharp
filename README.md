@@ -1,3 +1,3 @@
 # Merkozesek Solution megnyitása
-TekeVersenyGUI indítása  
+Merkozesek indítása  
 Fájl->megnyitás-> ...//CSharp/merkozesek/meccs.txt
