@@ -1,4 +1,3 @@
 # TekeVerseny Solution megnyitása
 TekeVersenyGUI indítása  
-GUI:  
-Fájl->megnyitás->...//Teke/Tekeverseny/
+Fájl->megnyitás-> ...//CSharp/Tekeverseny/tekeverseny.csv
